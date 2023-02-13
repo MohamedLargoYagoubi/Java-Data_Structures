@@ -1,2 +1,2 @@
 # Java-Data_Structures
-『☕』 Guía de Java y Estructuras de Datos.
+『☕』 Guía de Java, POO y Estructuras de Datos.
